@@ -34,7 +34,7 @@ li.disabled a {
     }
 }
 </style>
-<!--<script type="text/javascript">
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   var pluginUrl = 
@@ -49,7 +49,7 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
-</script>-->
+</script>
 </head>
 <body>
     <div id="wrapper" class="container-fluid">
